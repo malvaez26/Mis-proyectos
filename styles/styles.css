@@ -57,6 +57,11 @@ div{
     margin: 20px 40px;
 }
 
+.foto {
+    width: 300px;
+    clip-path: circle();
+}
+
 h3{
     color: #000000;
 }
