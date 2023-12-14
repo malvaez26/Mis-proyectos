@@ -1,10 +1,10 @@
 h1{
-    color: red;
+    color: blueviolet;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 p1{
-  color: green;
+  color: white;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 h2{
@@ -14,12 +14,12 @@ h2{
 
 body {
 
-background-image: url("https://html.sammy-codes.com/images/background.jpg")
+background-image: url("https://cdn.pixabay.com/photo/2018/10/13/17/31/leaves-3744649_640.jpg")
 
 }
 
 li{
-    color: aquamarine;
+    color: white;
     font-family: 'Courier New', Courier, monospace;
 }
 
