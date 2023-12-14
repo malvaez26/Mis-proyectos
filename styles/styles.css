@@ -1,25 +1,50 @@
 h1{
-    color: blueviolet;
+    color:rgb(0, 255, 76);
     font-family: Arial, Helvetica, sans-serif;
 }
 
 p1{
-  color: white;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(235, 239, 241);
+    font-family:Arial, Helvetica, sans-serif
 }
 h2{
-    color: brown;
-    font-family: serif;
+    color:rgb(0, 255, 213);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p2{
+    color:rgb(235, 239, 241);
+    font-family:Arial, Helvetica, sans-serif
+}
+
+h3{ 
+    color:rgb(0, 255, 213);
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+h4{ 
+    color:rgb(0, 255, 213);
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+h5{ 
+    color:rgb(0, 255, 213);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p3{
+    color:rgb(235, 239, 241);
+    font-family:Arial, Helvetica, sans-serif
 }
 
 body {
 
-background-image: url("https://cdn.pixabay.com/photo/2018/10/13/17/31/leaves-3744649_640.jpg")
-
+background-image: url("https://cdn.pixabay.com/photo/2018/10/13/17/31/leaves-3744649_640.jpg");
+text-align: center;
 }
 
 li{
-    color: white;
+    color: rgb(222, 233, 12);
     font-family: 'Courier New', Courier, monospace;
 }
 
