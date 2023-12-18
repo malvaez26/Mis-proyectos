@@ -22,12 +22,12 @@ h3{
     font-family: Arial, Helvetica, sans-serif; 
 }
 
-h3{ 
+h4{ 
     color:rgb(20, 21, 21);
     font-family: Arial, Helvetica, sans-serif; 
 }
 
-h4{ 
+h5{ 
     color:rgb(2, 2, 2);
     font-family: cursive, sans-serif;
     font-size: 2em;
@@ -89,7 +89,7 @@ a:visited{
 img:hover{
     border-radius: 50px;
     transform: scale(1.1);
-    transition: 0.5s;
+    transition: o.5s;
 }
 
 .main-container {
